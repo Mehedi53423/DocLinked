@@ -1,14 +1,31 @@
 # DocLinked
 
 ## Login Page
-![DocLinked Login](https://i.ibb.co/hLxJpv9/Login.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/hLxJpv9/Login.jpg">
+</p>
+
 ## Home Page
-![DocLinked Home](https://i.ibb.co/fdjGJdp/Home.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/fdjGJdp/Home.jpg">
+</p>
+
 ## Notification Page
-![DocLinked Notification](https://i.ibb.co/bNC5Tj7/Notifications.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/bNC5Tj7/Notifications.jpg">
+</p>
+
 ## Upload Page
-![DocLinked Upload](https://i.ibb.co/nrGzZYV/Upload.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/nrGzZYV/Upload.jpg">
+</p>
+
 ## Search Page
-![DocLinked Search](https://i.ibb.co/6RvNkhr/Search.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/6RvNkhr/Search.jpg">
+</p>
+
 ## Profile Page
-![DocLinked Profile](https://i.ibb.co/BjQk4QR/Profile.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/BjQk4QR/Profile.jpg">
+</p>
